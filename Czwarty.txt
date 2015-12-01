@@ -21,6 +21,7 @@ public class ArrayExamples
 		showList(list);
 	}
 	Gdzie moja kanapka z ketchupem kobito?!
+	Nie wiem menszczyzno.
 
 	// pre: list != null, list.length > 0
 	// post: return index of minimum element of array
