@@ -17,7 +17,7 @@ public class EnhancedFor
 		printList(list);
 	}
 
-	// pre: list != null
+pre: list != null
 	// post: return sum of elements
 	// uses enhanced for loop
 	public static int sumListEnhanced(int[] list)
